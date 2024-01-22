@@ -1,0 +1,7 @@
+Q:\WORK\C#\first\examp002\Pacman\bin\Debug\Pacman.exe.config
+Q:\WORK\C#\first\examp002\Pacman\bin\Debug\Pacman.exe
+Q:\WORK\C#\first\examp002\Pacman\bin\Debug\Pacman.pdb
+Q:\WORK\C#\first\examp002\Pacman\obj\Debug\Pacman.csproj.AssemblyReference.cache
+Q:\WORK\C#\first\examp002\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+Q:\WORK\C#\first\examp002\Pacman\obj\Debug\Pacman.exe
+Q:\WORK\C#\first\examp002\Pacman\obj\Debug\Pacman.pdb
